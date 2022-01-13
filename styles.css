@@ -1,1 +1,38 @@
 /* Write your CSS here! */
+#mainHeading {
+    text-align: center;
+    color: rgb(160, 4, 4);
+
+}
+
+#testP.funParagraph {
+    color:green;
+}
+
+header {
+    text-align: center;
+    text-transform: uppercase;
+    font-style: oblique;
+}
+
+body {
+    background-color: lightcyan;
+    margin: 8px 60px;
+    border: 4px solid black;
+
+}
+.warning{
+    text-align:right;
+    color:rgb(246, 45, 45);
+
+
+}
+
+h2 {
+    text-align: center;
+    text-underline-position: below;
+}
+ul {
+    text-align: center;
+    
+}
